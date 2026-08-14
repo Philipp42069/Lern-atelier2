@@ -20,11 +20,11 @@
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Neue C# Projekt Idee suchen 
-- [ ] C# Projekt starten 
-- [ ] GitHub 
+- [x] Neue C# Projekt Idee suchen 
+- [x] C# Projekt starten 
+- [x] GitHub 
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich an zwei Projekten gearbeitet, erstmals an einem kurzem Repetition Projekt. Und als zweites eine recreation von einem C# Projekt das wir am Mittwoch angeschaut haben (Monster Dungeon)
 
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
