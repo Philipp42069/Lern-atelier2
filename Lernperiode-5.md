@@ -24,7 +24,7 @@
 - [x] C# Projekt starten 
 - [x] GitHub 
 
-Heute habe ich an zwei Projekten gearbeitet, erstmals an einem kurzem Repetition Projekt. Und als zweites eine recreation von einem C# Projekt das wir am Mittwoch angeschaut haben (Monster Dungeon)
+Heute habe ich an zwei Projekten gearbeitet, erstmals an einem kurzem Repetition Projekt. Und als zweites eine recreation von einem C# Projekt das wir am Mittwoch angeschaut haben (Monster Dungeon. Ich habe mit ARRAYS gearbeitet die ich dann Random genommen habe mit Random (HP, MONSTER und Damage). ich bin noch nicht all zu weit, es sieht noch nicht gut aus und es hat noch kein richtiges ende und ich möchte noch Gold hinzu fügen nach dem Töten von Monstern. Und ich möchte sicher noch mehr hinzu tun. 
 
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
