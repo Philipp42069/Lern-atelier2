@@ -26,8 +26,52 @@
 
 (Heute habe ich... (50-100 Wörter))
 
+### Planung 21.08.2026
+3 bis 5 klar messbare Arbeitspakete.
 
-### Planung 23.08.2024
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 28.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 04.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 18.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
