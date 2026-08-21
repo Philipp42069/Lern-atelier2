@@ -39,9 +39,9 @@ ich habe alle ziele gemacht für heute.
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Projekt weiter machen 
+- [ ] Powerpoints anschauen
+- [ ] GitHub
 
 (Heute habe ich... (50-100 Wörter))
 
