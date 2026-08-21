@@ -29,11 +29,12 @@ Heute habe ich an zwei Projekten gearbeitet, erstmals an einem kurzem Repetition
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Projekt weiter machen
+- [x] Neues lernen über c#
+- [X] GitHub
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich weiter an meinem Projekt gearbeitet, es ist aber immer noch nicht auf einem Spielbarem platz. Ich habe sehr viel kleine Fehler entfernt und ich habe eine schleife hinzu gefügt die das spiel auch replayable macht und ich habe gelernt das man console.writeline auf mehrere zeilen machnen kann wenn man: Console.writeline(""" und da drin schreibt dann kann man auch mehrere zeilen schreiben""")
+ich habe alle ziele gemacht für heute.
 
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
