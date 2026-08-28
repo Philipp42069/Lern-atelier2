@@ -39,9 +39,9 @@ ich habe alle ziele gemacht für heute.
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Projekt weiter machen 
-- [ ] Powerpoints anschauen
-- [ ] GitHub
+- [ ] Powerpoints anschauen (konstruktor, clean code, classes) 320 modul. Nur in der erste halber stunde dann werde ich dieses gelernte in meinen code zu bringen.
+- [ ] Projekt weiter machen, Dungeon C# skript erweitern. Ich werde neue classes hinzufügen und einen konstruktor erstellen, die wir im 320 modul angeschaut haben. Das werde ich für die restliche zeit machen.
+- [ ] GitHub. Also meine Arbeitspakete messbar machen und fürs nächste mal eine Planung erstellen. 
 
 (Heute habe ich... (50-100 Wörter))
 
