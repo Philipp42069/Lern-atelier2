@@ -39,18 +39,21 @@ ich habe alle ziele gemacht für heute.
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Powerpoints anschauen (konstruktor, clean code, classes) 320 modul. Nur in der erste halber stunde dann werde ich dieses gelernte in meinen code zu bringen.
-- [ ] Projekt weiter machen, Dungeon C# skript erweitern. Ich werde neue classes hinzufügen und einen konstruktor erstellen, die wir im 320 modul angeschaut haben. Das werde ich für die restliche zeit machen.
-- [ ] GitHub. Also meine Arbeitspakete messbar machen und fürs nächste mal eine Planung erstellen. 
+- [x] Powerpoints anschauen (konstruktor, clean code, classes) 320 modul. Nur in der erste halber stunde dann werde ich dieses gelernte in meinen code zu bringen.
+- [x] Projekt weiter machen, Dungeon C# skript erweitern. Ich werde neue classes hinzufügen und einen konstruktor erstellen, die wir im 320 modul angeschaut haben. Das werde ich für die restliche zeit machen.
+- [x] GitHub. Also meine Arbeitspakete messbar machen und fürs nächste mal eine Planung erstellen. 
 
-(Heute habe ich... (50-100 Wörter))
+heute habe ich in den ersten minuten mein bluetooth reparieren, weil ich meine airpods nicht connecten konnte. Dann habe ich die selbstlernende einschätzung gemacht und abgegeben. Dann habe ich schnell die powerpoints angeschaut die man in dem modul 320 gehabt haben über classes und konstruktoren. Clean code powerpoint hab ich nicht angeschaut aber ich habe meinen code verbessert, laut clean code. 
+Ich habe danach natürlich weiter an meinem code gearbeitet. Ich habe Classen hinzu gefügt, bisher nur über den spielcharacter aber ich werde vieleicht noch über jeden Enemy eine class machen weil ich langsam merke das ich zu viel Code auf einer Seite habe. 
+Konstruktor hab ich in den spiel character class gemacht. Name = name und so. dann habe ich einen fehler behoben das meine Schleife irgendwie nicht ging, ich habe es verbessert indem ich die Schleife neu geschrieben habe. 
+Und Ganz am anfang habe ich meine Arbeitspakete messbar gemacht. Und jetzt die Reflexion geschrieben. Ich habe eigendlich alles gemacht was ich wollte, aber ich hab nicht immer perfekte konzentration gehabt aber es war auch ein stressiger tag.
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Neue 320 Powerpoints anschauen, die wir nächste Woche anschauen und diese in meinen Code rein tun. 
+- [ ] Eine neue Class für Enemy erstellen und für Coins. Das mit Konstruktoren erstellen und die neue 320 sachen rein packen.
+- [ ] Github reflexion erstellen und für nächste Woche die Arbeitspakete erstellen. (und hoffentlich auf grün bleiben)
 
 (Heute habe ich... (50-100 Wörter))
 
