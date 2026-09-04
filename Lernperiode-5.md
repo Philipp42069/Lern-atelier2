@@ -51,18 +51,20 @@ Und Ganz am anfang habe ich meine Arbeitspakete messbar gemacht. Und jetzt die R
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Neue 320 Powerpoints anschauen, die wir nächste Woche anschauen und diese in meinen Code rein tun. 
-- [ ] Eine neue Class für Enemy erstellen und für Coins. Das mit Konstruktoren erstellen und die neue 320 sachen rein packen.
-- [ ] Github reflexion erstellen und für nächste Woche die Arbeitspakete erstellen. (und hoffentlich auf grün bleiben)
+- [x] Neue 320 Powerpoints anschauen, die wir nächste Woche anschauen und diese in meinen Code rein tun. 
+- [x] Eine neue Class für Enemy erstellen und für Coins. Das mit Konstruktoren erstellen und die neue 320 sachen rein packen.
+- [x] Github reflexion erstellen und für nächste Woche die Arbeitspakete erstellen. (und hoffentlich auf grün bleiben)
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich alle Powerpoints angeschaut also UML, UML zu code, Assoziationen. Ich habe diese in der ersten Stunde nach dem Einzelgespräch gemacht. Danach habe ich diese Themen probiert in meinen
+Code zu passen, (UML, UML zu Code)  habe ich nicht wirklich gemacht weil es für mich keinen sinn gab. Aber die Assoziationen habe ich laut der Powerpoint meine verbindungen verbessert weil ich natürlich schon ein paar hatte. Danach habe ich eine Klasse für Enemy gemacht und das was ich schon geschrieben habe in meine neue klasse getan. Dann habe ich auch die Coins Klasse gemacht und ein Konstruktor gemacht. Aber bin da noch nicht ganz fertig, weil es irgendwie nicht eine Random zahl genommen hat aber das werde ich Nächste Woche Verbessern. 
+Und jetzt habe ich noch mein GitHub gemacht und bin auch auf Grün.
 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Meine Klasse Coins verbessern das es eine richtige random zahl nimmt und sie in das spiel richig einsetzt.
+- [ ] Ich werde noch meinen Ganzen Code verbessern und Clean code nochmals einführen, weil ich sehr viele dumme Namen für variablen benutze.
+- [ ] Mein Guthub machen und die PLanung für 18.09.2026 machen (Hoffentlich auf Grün bleiben)
 
 (Heute habe ich... (50-100 Wörter))
 
