@@ -62,18 +62,20 @@ Und jetzt habe ich noch mein GitHub gemacht und bin auch auf Grün.
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Meine Klasse Coins verbessern das es eine richtige random zahl nimmt und sie in das spiel richig einsetzt.
-- [ ] Ich werde noch meinen Ganzen Code verbessern und Clean code nochmals einführen, weil ich sehr viele dumme Namen für variablen benutze.
-- [ ] Mein Guthub machen und die PLanung für 18.09.2026 machen (Hoffentlich auf Grün bleiben)
+- [x] Meine Klasse Coins verbessern das es eine richtige random zahl nimmt und sie in das spiel richig einsetzt.
+- [x] Ich werde noch meinen Ganzen Code verbessern und Clean code nochmals einführen, weil ich sehr viele dumme Namen für variablen benutze.
+- [x] Mein Guthub machen und die PLanung für 18.09.2026 machen (Hoffentlich auf Grün bleiben)
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe heute alle meine Arbeitspakete gemacht. Ich habe die Klasse Coins erichtet und auch gemacht das es eine random zahl jedem enemy gibt. Ich habe das sogar mit recht wenig AI gemacht. 
+Dann habe ich ein paar fehler wegen der Coins gefunden, die mit ein wenig AI verbessert und dann auch nochmals den ganzen Code Durch gegangen und einen Fehler gefunden wo ich etwas falsch geschrieben habe und deswegen ging die Schleife nicht ganz.
+Und ich habe jetzt auch mein GitHub gemacht und bin grün. also ich habe heute eigentlich sehr gut gearbeitet und auch meinen plan eingehalten.
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Ich will meine Coins Klasse noch erweitern das ich sie zu einer Item Klasse mache. das man entweder coins oder ein Item bekommt (das aber weniger warscheindlich ist, und am ende angezeigt wird)
+- [ ] Diese erweiterte Klasse durchschauen und alles verbessern. Probiere das mal ohne AI
+- [ ] Mein Guthub machen und die PLanung für 25.09.2026 machen (Hoffentlich auf Grün bleiben)
 
 (Heute habe ich... (50-100 Wörter))
 
