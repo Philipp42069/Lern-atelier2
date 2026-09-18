@@ -73,18 +73,21 @@ Und ich habe jetzt auch mein GitHub gemacht und bin grün. also ich habe heute e
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Ich will meine Coins Klasse noch erweitern das ich sie zu einer Item Klasse mache. das man entweder coins oder ein Item bekommt (das aber weniger warscheindlich ist, und am ende angezeigt wird)
-- [ ] Diese erweiterte Klasse durchschauen und alles verbessern. Probiere das mal ohne AI
-- [ ] Mein Guthub machen und die PLanung für 25.09.2026 machen (Hoffentlich auf Grün bleiben)
+- [x] Ich will meine Coins Klasse noch erweitern das ich sie zu einer Item Klasse mache. das man entweder coins oder ein Item bekommt (das aber weniger warscheindlich ist, und am ende angezeigt wird)
+- [x] Diese erweiterte Klasse durchschauen und alles verbessern. Probiere das mal ohne AI
+- [x] Mein Guthub machen und die PLanung für 25.09.2026 machen (Hoffentlich auf Grün bleiben)
 
-(Heute habe ich... (50-100 Wörter))
+ich habe die Klasse Coins umgeändert auf Items und viele Random Gegenstände rein getan wie Waffen und Trophäen, aber die haben noch keinen nutzen. Es wird aber am ende angezeigt, was man in diesem Run gefunden hat. Ich habe da einfach mein Wissen erweitert mit Sachen die ich schon gemacht habe. War nicht wirklich schwierig, habe aber Vieleicht ein wenig zu lange gebraucht, weil ich abgelenkt war. 
+Ich habe noch Fehler in meinem Main Code gefunden (Der code ging immer noch aber war ein wenig komisch).  Es hatte einen Fehler in dem mein zufälliger Enemy sich jede runde geändert hat auch wenn er noch nicht besiegt war ich musste einfach die schleiffe, in der meine Runden abgehen ein wenig nach oben schieben das der "Random Enemy Generator" auch dabei war. Jetzt geht es, hoffentlih auch wenn ich nächste Woche an meinen Enemys etwas ändere.
+Und jetzt habe ich auch mein GitHub perfekt gemacht und bin auf Grün. :)
+
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Enemy Klasse ändern (Neue Enemys und Bosse).
+- [ ] Code komplett testen und nach Fehlern suchen (Auch mit Ai testen).
+- [ ] Diese Lernperiode fertigstellen und grün bleiben.
 
 (Heute habe ich... (50-100 Wörter))
 
