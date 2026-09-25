@@ -85,11 +85,13 @@ Und jetzt habe ich auch mein GitHub perfekt gemacht und bin auf Grün. :)
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Enemy Klasse ändern (Neue Enemys und Bosse).
-- [ ] Code komplett testen und nach Fehlern suchen (Auch mit Ai testen).
-- [ ] Diese Lernperiode fertigstellen und grün bleiben.
+- [x] Enemy Klasse ändern (Neue Enemys und Bosse).
+- [x] Code komplett testen und nach Fehlern suchen (Auch mit Ai testen).
+- [x] Diese Lernperiode fertigstellen und grün bleiben.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich nicht allzu lange gearbeitet, aber ich habe trotzdem alle meine Ziele erreicht. Ich habe die Enemy Klasse erweitert mit einem neuen Enemy (Wolf) und einen Boss (Hydra), der Boss macht mehr Schaden und braucht mehrere Runden, aber er gibt eine spezielle Waffe. Ich habe den Code getestet und er funktioniert eigentlich gut, es hat noch ein paar Stellen, wo man Fehler sieht (Schreibfehler und nicht zu schönes UI), wenn ich Zeit und Lust habe, werde ich das noch in den Ferien erledigen.
+Und jetzt habe ich auch alles geschrieben für heute und bin wahrscheinlich grün.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich sicher besser gearbeitet als in den letzten, ich habe mir echte und erreichbare Ziele gesetzt und diese auch durch geführt. Ich habe aber immer noch nicht diese 5 Lektionen immer komplett durch gearbeitet, aber weil ich Sachen gelernt habe und alle meine Ziele jeden Tag erreicht habe, finde ich das nicht allzu schlimm (Es ist ja auch ein Freitag Abend). 
+Ich habe ein gutes Projekt gemacht, das nichts Neues für mich war, aber mir geholfen hat, mit dem Modul 320. Ich werde aber nächstes Mal ein neues Projekt machen, wo ich etwas Neues lernen muss, wie z. B. etwas auf UNITY (ein 2D Spiel) oder Java Script in eine Webseite hinzufügen. Sodass ich etwas Neues lernen kann.
