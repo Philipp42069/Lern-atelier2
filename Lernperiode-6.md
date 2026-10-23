@@ -87,8 +87,12 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
+eute habe ich mein GitHub-Profil optimiert und mich mit verschiedenen Projektideen beschäftigt. Dabei habe ich überlegt, welches Projekt realistisch umsetzbar ist und mir gleichzeitig neue Herausforderungen bietet. Außerdem habe ich nach anspruchsvolleren C#-Lernvideos gesucht, um meine Kenntnisse in der Programmierung zu vertiefen und neue Konzepte kennenzulernen. Mein Ziel ist es, mein Wissen praktisch anzuwenden und ein eigenes Projekt mit einer sauberen Struktur umzusetzen.
 
-...Ihr Text...
+C# Advanced Tutorial: https://www.youtube.com/results?search_query=C%23+Advanced+Tutorial
+C# Object-Oriented Programming (OOP): https://www.youtube.com/results?search_query=C%23+OOP+Advanced+Tutorial
+C# ASP.NET Core Web API: https://www.youtube.com/results?search_query=C%23+ASP.NET+Core+Web+API+Tutorial
+
 
 
 <!--
