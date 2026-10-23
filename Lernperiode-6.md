@@ -75,9 +75,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Ich werde heute mein GitHub-Profil vollständig einrichten und optimieren (Projekte und Repository-Struktur sind bis heute Abend fertig).
-- [ ] Ich werde heute mindestens 5 Projektideen recherchieren und bewerten und mich anschließend für eine realistisch umsetzbare Idee entscheiden.
-- [ ] Ich werde heute mindestens 3 Lernvideos zu den neuen Themen finden, die URLs dokumentieren und unter diesem Punkt eintragen.
+- [x] Ich werde heute mein GitHub-Profil vollständig einrichten und optimieren (Projekte und Repository-Struktur sind bis heute Abend fertig).
+- [x] Ich werde heute mindestens 5 Projektideen recherchieren und bewerten und mich anschließend für eine realistisch umsetzbare Idee entscheiden.
+- [x] Ich werde heute mindestens 3 Lernvideos zu den neuen Themen finden, die URLs dokumentieren und unter diesem Punkt eintragen.
 
 
 #### Tagesreflexion
@@ -89,9 +89,11 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 eute habe ich mein GitHub-Profil optimiert und mich mit verschiedenen Projektideen beschäftigt. Dabei habe ich überlegt, welches Projekt realistisch umsetzbar ist und mir gleichzeitig neue Herausforderungen bietet. Außerdem habe ich nach anspruchsvolleren C#-Lernvideos gesucht, um meine Kenntnisse in der Programmierung zu vertiefen und neue Konzepte kennenzulernen. Mein Ziel ist es, mein Wissen praktisch anzuwenden und ein eigenes Projekt mit einer sauberen Struktur umzusetzen.
 
-C# Advanced Tutorial: https://www.youtube.com/results?search_query=C%23+Advanced+Tutorial
+C# Videos https://www.youtube.com/results?search_query=C%23+Advanced+Tutorial
 C# Object-Oriented Programming (OOP): https://www.youtube.com/results?search_query=C%23+OOP+Advanced+Tutorial
 C# ASP.NET Core Web API: https://www.youtube.com/results?search_query=C%23+ASP.NET+Core+Web+API+Tutorial
+ich habe nicht immer alles geschaut, nur einige Teile die mir wichtig waren.
+
 
 
 
@@ -110,10 +112,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
+- [ ] Projekt starten: Ich werde mein Projekt erstellen, die Grundstruktur aufbauen und mindestens eine grundlegende Funktion implementieren.
+- [ ] GitHub optimieren: Ich werde mein GitHub-Profil aktualisieren 
+- [ ] Lernvideos anschauen und umsetzen: Ich werde mindestens 2 fortgeschrittene C#-Lernvideos anschauen und mindestens 2 gelernte Konzepte in meinem Projekt anwenden.
 
 #### Tagesreflexion
 <!--
