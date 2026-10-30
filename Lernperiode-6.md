@@ -124,7 +124,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Diese Woche habe ich mein Projekt gestartet, die Grundstruktur erstellt und eine erste Funktion programmiert. Zudem habe ich mein GitHub-Profil verbessert und mich mit dem fortgeschrittenen C#-Thema Objektorientierte Programmierung (OOP) beschäftigt. Die neuen Kenntnisse konnte ich direkt in meinem Projekt anwenden. Insgesamt habe ich mein Ziel erreicht und wichtige Fortschritte gemacht.
 
 
 ### Planung 06.11.2026
@@ -138,9 +138,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Ich werde 3 neue Funktionen in meinem Projekt implementieren.
+- [ ] Ich werde das C#-Thema Vererbung und Polymorphismus erneut lernen und in meinem Projekt anwenden.
+- [ ] Github verbessern, das alles auf grün bleibt
 
 
 #### Tagesreflexion
