@@ -138,9 +138,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Ich werde 3 neue Funktionen in meinem Projekt implementieren.
-- [ ] Ich werde das C#-Thema Vererbung und Polymorphismus erneut lernen und in meinem Projekt anwenden.
-- [ ] Github verbessern, das alles auf grün bleibt
+- [x] Ich werde 3 neue Funktionen in meinem Projekt implementieren.
+- [x] Ich werde das C#-Thema Vererbung und Polymorphismus erneut lernen und in meinem Projekt anwenden.
+- [x] Github verbessern, das alles auf grün bleibt
 
 
 #### Tagesreflexion
@@ -151,34 +151,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
-
-
-### Planung 13.11.2026
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
-
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
-
-#### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
-
-...Ihr Text...
+Heute habe ich an meinem Projekt weitergearbeitet und erste Test-Codes für neue Funktionen erstellt. Zudem habe ich die C#-Themen Vererbung und Polymorphismus wiederholt und deren Einsatzmöglichkeiten im Projekt besser verstanden. Ausserdem habe ich GitHub fehler behoben, damit alle Tests und Checks weiterhin grün bleiben. Insgesamt konnte ich mein Programmieren und die Qualität meines Projekts verbessern.
 
 
 ### Planung 20.11.2026
@@ -192,9 +165,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Ich werde mindestens 5 Testfälle für meine wichtigsten Funktionen erstellen und erfolgreich ausführen
+- [ ] Ich werde eine Klasse mit Vererbung und mindestens einer überschriebenen Methode (Polymorphismus) programmieren.
+- [ ] Ich werde eine Liste (List) implementieren und mindestens 5 Objekte darin speichern und ausgeben.
 
 
 #### Tagesreflexion
