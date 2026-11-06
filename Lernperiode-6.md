@@ -112,9 +112,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Projekt starten: Ich werde mein Projekt erstellen, die Grundstruktur aufbauen und mindestens eine grundlegende Funktion implementieren.
-- [ ] GitHub optimieren: Ich werde mein GitHub-Profil aktualisieren 
-- [ ] Lernvideos anschauen und umsetzen: Ich werde mindestens 2 fortgeschrittene C#-Lernvideos anschauen und mindestens 2 gelernte Konzepte in meinem Projekt anwenden.
+- [x] Projekt starten: Ich werde mein Projekt erstellen, die Grundstruktur aufbauen und mindestens eine grundlegende Funktion implementieren.
+- [x] GitHub optimieren: Ich werde mein GitHub-Profil aktualisieren 
+- [x] Lernvideos anschauen und umsetzen: Ich werde mindestens 2 fortgeschrittene C#-Lernvideos anschauen und mindestens 2 gelernte Konzepte in meinem Projekt anwenden.
 
 #### Tagesreflexion
 <!--
