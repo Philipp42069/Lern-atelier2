@@ -165,9 +165,7 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Ich werde mindestens 5 Testfälle für meine wichtigsten Funktionen erstellen und erfolgreich ausführen
-- [ ] Ich werde eine Klasse mit Vererbung und mindestens einer überschriebenen Methode (Polymorphismus) programmieren.
-- [ ] Ich werde eine Liste (List) implementieren und mindestens 5 Objekte darin speichern und ausgeben.
+abwesend
 
 
 #### Tagesreflexion
@@ -192,9 +190,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Ich werde mindestens 5 Testfälle für meine wichtigsten Funktionen erstellen und erfolgreich ausführen
+- [ ] Ich werde eine Klasse mit Vererbung und mindestens einer überschriebenen Methode (Polymorphismus) programmieren.
+- [ ] Ich werde eine Liste (List) implementieren und mindestens 5 Objekte darin speichern und ausgeben.
 
 
 #### Tagesreflexion
