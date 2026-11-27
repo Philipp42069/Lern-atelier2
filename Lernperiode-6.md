@@ -217,9 +217,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Ich werde heute mindestens 2 Lernvideos zu C# anschauen und die wichtigsten Punkte notieren.
+- [ ] ich werde ein C#-Programm mit mindestens 3 Klassen erstellen und erfolgreich ausführen.
+- [ ] ich werde 5 Übungen zu Listen (List) lösen und die Ergebnisse dokumentieren.
 
 
 #### Tagesreflexion
