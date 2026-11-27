@@ -190,9 +190,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Ich werde mindestens 5 Testfälle für meine wichtigsten Funktionen erstellen und erfolgreich ausführen
-- [ ] Ich werde eine Klasse mit Vererbung und mindestens einer überschriebenen Methode (Polymorphismus) programmieren.
-- [ ] Ich werde eine Liste (List) implementieren und mindestens 5 Objekte darin speichern und ausgeben.
+- [x] Ich werde mindestens 5 Testfälle für meine wichtigsten Funktionen erstellen und erfolgreich ausführen
+- [x] Ich werde eine Klasse mit Vererbung und mindestens einer überschriebenen Methode (Polymorphismus) programmieren.
+- [x] Ich werde eine Liste (List) implementieren und mindestens 5 Objekte darin speichern und ausgeben.
 
 
 #### Tagesreflexion
@@ -203,8 +203,8 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
-
+Heute habe ich meine Programmierziele erreicht. Ich habe mehrere Testfälle erstellt und ausgeführt, eine Klasse mit Vererbung und einer überschriebenen Methode programmiert sowie eine Liste mit mindestens fünf Objekten erstellt und ausgegeben. Dadurch konnte ich mein Verständnis von Testen, Vererbung und Listen weiter verbessern.
+und das Einzelgespräch hat mir noch geholfen, dass ich mehr an meinen Projekten arbeite und nicht an den anderen Modulen.
 
 ### Planung 04.12.2026
 <!--
